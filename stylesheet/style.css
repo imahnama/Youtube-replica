@@ -4,17 +4,30 @@
   justify-content: space-evenly;
 }
 
-.grid-container{
-    display: grid;
-    grid-template-columns: auto auto;
+.grid-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
 }
 
-.grid-item1{
-  align-content: start;
+.video {
+  align-content: center;
+  justify-self: left;
+  justify-content: left;
+  margin-left: 28%;
 }
 
-.grid-item2{
+.grid-item2 {
   align-content: end;
+  width: 350px;
+}
 
+#icons {
+  left: 0;
+  font-size: larger;
+  width: 100%;
+  text-align: end;
+}
 
+h3 {
+  text-align: left;
 }
