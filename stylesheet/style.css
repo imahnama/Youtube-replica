@@ -4,13 +4,17 @@
   justify-content: space-evenly;
 }
 
-aside {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  margin-left: auto;
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
 }
 
-.sidebar {
-  align-self: flex-end;
+.grid-item1{
+  align-content: start;
+}
+
+.grid-item2{
+  align-content: end;
+
+
 }
