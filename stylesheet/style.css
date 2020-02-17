@@ -1,5 +1,16 @@
-#navbar{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.sidebar {
+  align-self: flex-end;
 }
