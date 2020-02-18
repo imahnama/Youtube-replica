@@ -14,8 +14,6 @@
 
 ## Getting Started
 
-**An editor of your choice**
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
