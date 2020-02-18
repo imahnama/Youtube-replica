@@ -2,6 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  margin-bottom: 20px;
 }
 
 .grid-container {
@@ -9,42 +10,42 @@
   grid-template-columns: 2fr 1fr;
 }
 
+article {
+  width: 80%;
+}
+
 .video {
   align-content: center;
   justify-self: left;
   justify-content: left;
   margin-left: 28%;
+  grid-area: 1 / 1 / 2 / 2;
+  height: 40%;
 }
 
 .grid-item2 {
   align-content: end;
   width: 500px;
-
+  grid-area: 1 / 2 / 2 / 3;
 }
-.sidebar{
-
-     float:left;
-     margin-right: 20px;
-
-
+.sidebar {
+  float: left;
+  margin-right: 20px;
 }
 #icons {
   left: 0;
   font-size: larger;
-  width: 100%;
+  width: 60%;
   text-align: end;
 }
 
 h3 {
   text-align: left;
 }
-.content{
-
-    height: 190px;
+.content {
+  height: 190px;
 }
-.views{
-
-    font-size: 13px;
-    color: grey;
-    
+.views {
+  font-size: 13px;
+  color: grey;
 }
