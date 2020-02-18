@@ -18,9 +18,16 @@
 
 .grid-item2 {
   align-content: end;
-  width: 350px;
-}
+  width: 500px;
 
+}
+.sidebar{
+
+     float:left;
+     margin-right: 20px;
+
+
+}
 #icons {
   left: 0;
   font-size: larger;
@@ -30,4 +37,14 @@
 
 h3 {
   text-align: left;
+}
+.content{
+
+    height: 190px;
+}
+.views{
+
+    font-size: 13px;
+    color: grey;
+    
 }
