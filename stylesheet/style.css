@@ -14,7 +14,7 @@ article {
   width: 80%;
 }
 
-.video {
+.main-content {
   align-content: center;
   justify-self: left;
   justify-content: left;
@@ -23,12 +23,12 @@ article {
   height: 40%;
 }
 
-.grid-item2 {
+.side-content {
   align-content: end;
   width: 500px;
   grid-area: 1 / 2 / 2 / 3;
 }
-.sidebar {
+.side-images {
   float: left;
   margin-right: 20px;
 }
@@ -42,16 +42,22 @@ article {
 h3 {
   text-align: left;
 }
-.content {
+.side-descriptions {
   height: 190px;
-}
-.views {
-  font-size: 13px;
-  color: grey;
 }
 
 iframe {
   width: 90%;
   height: 65%;
   border: 0;
+}
+
+.fa {
+  margin-right: 10px;
+}
+
+#signin {
+  background-color: cornflowerblue;
+  border-radius: 5px;
+  font-size: 2.5ex;
 }
