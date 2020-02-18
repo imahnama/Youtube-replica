@@ -1,38 +1,34 @@
 # Youtube-replica
 
 > Re-creating a Youtube Page
-![screenshot](1.png)
-
+> ![screenshot](1.png)
 
 ## Built With
 
 - HTML &,
 - CSS,
 
-
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://raw.githack.com/imahnama/Youtube-replica/Ikraam-Rahma-feature/index.html)
 
 ## Getting Started
 
 **An editor of your choice**
 
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-  A browser of your choice preferrably Chrome.
+
+A browser of your choice preferrably Chrome.
 
 ### Setup
- Fork this project to your local machine
+
+Fork this project to your local machine
 
 ### Deployment
+
 Use Github pages
-
-
 
 ## Authors
 
@@ -64,4 +60,5 @@ Give a ⭐️ if you like this project!
 - The Different Ways to Start Project using Floats, Flexbox, and Grid CSS by Ruben Paz Chuspe (https://hackernoon.com/the-different-ways-to-start-project-using-floats-flexbox-and-grid-css-4x82371n)
 
 ## 📝 License
+
 No License
