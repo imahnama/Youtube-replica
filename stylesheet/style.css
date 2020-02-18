@@ -49,3 +49,8 @@ h3 {
   font-size: 13px;
   color: grey;
 }
+
+iframe {
+  width: 90%;
+  height: 65%;
+}
