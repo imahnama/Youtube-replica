@@ -1,16 +1,14 @@
-# Project Name
+# Youtube-replica
 
-> One paragraph statement about the project.
+> Re-creating a Youtube Page
+![screenshot](1.png)
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML &,
+- CSS,
+
 
 ## Live Demo
 
@@ -19,45 +17,42 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**An editor of your choice**
+
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+  A browser of your choice preferrably Chrome.
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+ Fork this project to your local machine
 
 ### Deployment
+Use Github pages
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ikraam Ghoor**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@ikraamg](https://github.com/ikraamg)
+- Twitter: [@GhoorIkraam](https://twitter.com/GhoorIkraam)
+- Linkedin: [isghoor](https://linkedin.com/isghoor)
 
-👤 **Author2**
+👤 **Rahma Halane**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Imahnama](https://github.com/imahnama)
+- Twitter: [@halane_rahma](https://twitter.com/halane_rahma)
+- Linkedin: [Rahmahalane](https://linkedin.com/Rahmahalane)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [https://github.com/imahnama/Youtube-replica/issues](issues/).
 
 ## Show your support
 
@@ -65,10 +60,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Freecodecamp
+- The Different Ways to Start Project using Floats, Flexbox, and Grid CSS by Ruben Paz Chuspe (https://hackernoon.com/the-different-ways-to-start-project-using-floats-flexbox-and-grid-css-4x82371n)
 
 ## 📝 License
-
-This project is [MIT](lic.url) licensed.
