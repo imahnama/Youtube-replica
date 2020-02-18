@@ -1,5 +1,6 @@
 # Youtube-replica
 
+
 > Re-creating a Youtube Page
 > ![screenshot](1.png)
 
@@ -24,9 +25,6 @@ A browser of your choice preferrably Chrome.
 
 Fork this project to your local machine
 
-### Deployment
-
-Use Github pages
 
 ## Authors
 
