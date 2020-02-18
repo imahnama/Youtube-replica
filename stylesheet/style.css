@@ -28,10 +28,12 @@ article {
   width: 500px;
   grid-area: 1 / 2 / 2 / 3;
 }
+
 .side-images {
   float: left;
   margin-right: 20px;
 }
+
 #icons {
   left: 0;
   font-size: larger;
@@ -42,6 +44,7 @@ article {
 h3 {
   text-align: left;
 }
+
 .side-descriptions {
   height: 190px;
 }
