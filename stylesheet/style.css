@@ -45,8 +45,12 @@ article {
 #icons {
   left: 0;
   font-size: larger;
-  width: 150%;
+  width: 100%;
   text-align: end;
+}
+
+.share{
+    font-size: 15px;
 }
 
 h3 {
